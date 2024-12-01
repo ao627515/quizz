@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quizz Interactive</title>
+    <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+
+<body>
+    <div id="app">
+        <div class="header">
+            <button id="quit-btn" class="hidden">Quitter</button>
+        </div>
+        <div class="main">
+            <button id="start-btn" class="circle-button">Commence</button>
+            <div id="question-container" class="hidden">
+                <p id="category"></p>
+                <p id="question"></p>
+                <p id="answer" class="hidden"></p>
+                <div class="navigation-buttons">
+                    <button id="prev-btn" class="hidden">Précédent</button>
+                    <button id="next-btn" class="hidden">Suivant</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="./assets/js/app.js"></script>
+</body>
+
+</html>

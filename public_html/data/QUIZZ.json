@@ -1,0 +1,102 @@
+[
+  {
+    "categorie": "débutant",
+    "question": "Qu'est-ce qu'un ordinateur ?",
+    "reponse": "Une machine électronique capable de traiter des informations selon un programme enregistré."
+  },
+  {
+    "categorie": "débutant",
+    "question": "À quoi sert un moteur de recherche comme Google ?",
+    "reponse": "Trouver des informations sur Internet à partir de mots-clés."
+  },
+  {
+    "categorie": "débutant",
+    "question": "C'est quoi une adresse email ?",
+    "reponse": "Une adresse unique qui permet d'identifier une boîte aux lettres électronique sur Internet."
+  },
+  {
+    "categorie": "débutant",
+    "question": "Quelle est la différence entre un logiciel et un matériel ?",
+    "reponse": "Logiciel = programmes / Matériel = composants physiques."
+  },
+  {
+    "categorie": "débutant",
+    "question": "Quelle est la plateforme la plus populaire pour le développement open source ?",
+    "reponse": "GitHub."
+  },
+  {
+    "categorie": "facile",
+    "question": "Quels sont les principaux composants d'un ordinateur ?",
+    "reponse": "Processeur, RAM, disque dur, etc."
+  },
+  {
+    "categorie": "facile",
+    "question": "Comment se protéger sur Internet ?",
+    "reponse": "Mots de passe forts, antivirus, vigilance face aux liens suspects."
+  },
+  {
+    "categorie": "facile",
+    "question": "Qu'est-ce que le cloud ?",
+    "reponse": "Stockage en ligne accessible via Internet."
+  },
+  {
+    "categorie": "facile",
+    "question": "Qu'est-ce qu'un virus informatique ?",
+    "reponse": "Programme malveillant qui endommage ou vole des données."
+  },
+  {
+    "categorie": "facile",
+    "question": "Quel est l'outil IA le plus populaire en 2022 ?",
+    "reponse": "ChatGPT."
+  },
+  {
+    "categorie": "intermédiaire",
+    "question": "Différence entre intranet et internet ?",
+    "reponse": "Intranet = privé, Internet = public."
+  },
+  {
+    "categorie": "intermédiaire",
+    "question": "Qu'est-ce qu'un algorithme ?",
+    "reponse": "Suite d'instructions pour résoudre un problème."
+  },
+  {
+    "categorie": "intermédiaire",
+    "question": "Quels sont les enjeux éthiques des données personnelles ?",
+    "reponse": "Protection de la vie privée, consentement, usage commercial."
+  },
+  {
+    "categorie": "intermédiaire",
+    "question": "Comment appelle-t-on un logiciel malveillant utilisé pour extorquer de l'argent ?",
+    "reponse": "Ransomware."
+  },
+  {
+    "categorie": "intermédiaire",
+    "question": "Quelle est la résolution Full HD ?",
+    "reponse": "1920x1080 pixels."
+  },
+  {
+    "categorie": "difficile",
+    "question": "Quels sont les types de cyberattaques ?",
+    "reponse": "Phishing, ransomware, DDoS, etc."
+  },
+  {
+    "categorie": "difficile",
+    "question": "Comment fonctionne le référencement naturel (SEO) ?",
+    "reponse": "Amélioration de la visibilité web par des techniques optimisées."
+  },
+  {
+    "categorie": "difficile",
+    "question": "Qu'est-ce que le deep learning ?",
+    "reponse": "Apprentissage automatique basé sur des réseaux de neurones."
+  },
+  {
+    "categorie": "difficile",
+    "question": "Impacts environnementaux du numérique ?",
+    "reponse": "Consommation d’énergie, e-déchets."
+  },
+  {
+    "categorie": "difficile",
+    "question": "Comment fonctionne une blockchain ?",
+    "reponse": "Registre décentralisé sécurisé pour des informations (ex. : cryptomonnaies)."
+  }
+]
