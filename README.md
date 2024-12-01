@@ -1,7 +1,3 @@
-Merci pour les détails ! Voici un **README.md** adapté à votre projet actuel :
-
----
-
 # **Quizz** 🧠
 
 **Quizz** est une application web simple et intuitive développée avec **HTML**, **CSS**, et **JavaScript**, qui propose une expérience ludique de quiz. Les questions sont stockées dans un fichier JSON et présentées via une interface utilisateur interactive.
